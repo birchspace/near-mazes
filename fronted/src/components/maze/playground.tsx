@@ -75,7 +75,7 @@ export function Playground() {
     <Card className="z-999 container w-full px-6 py-6 md:h-[460px] 2xl:h-[60vh]">
       <CardBody className="grid auto-rows-auto grid-cols-3 gap-6">
         {wallet.allMediaesData.map((item, index) => (
-          <Card className="relative h-auto min-h-[380px] max-w-[400px]">
+          <Card className="relative h-auto min-h-[380px] max-w-[400px]" key={index}>
             <CardHeader className="flex gap-3">
               <div className="flex flex-col">
                 <p className="text-tiny font-bold uppercase">Author</p>
