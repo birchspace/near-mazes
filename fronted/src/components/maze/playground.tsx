@@ -110,6 +110,7 @@ export function Playground() {
             <Divider />
             <CardFooter className="">
               <form
+                key={index}
                 onSubmit={onSubmit}
                 className="relative flex items-center justify-between px-4"
               >
