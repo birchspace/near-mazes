@@ -38,7 +38,7 @@ export function Playground() {
 
   const { register, handleSubmit } = useForm<SecretValue>({ resolver });
   const onSubmit = handleSubmit((data) => {
-    toast("Here is your toast.");
+    toast("burning ...");
     burnHandle(data);
   });
 
@@ -66,8 +66,10 @@ export function Playground() {
       };
       await wallet
         .signAndSendTransaction(tx)
-        .catch((error) => console.log(error));
-      toast.success("Successfully burned!");
+        .then(() => {
+          toast.success("Successfully burned!");
+        })
+        .catch((error) => toast.error(`secret faild: ${error}`));
     };
     burn();
   };
@@ -75,7 +77,10 @@ export function Playground() {
     <Card className="z-999 container w-full px-6 py-6 md:h-[460px] 2xl:h-[60vh]">
       <CardBody className="grid auto-rows-auto grid-cols-3 gap-6">
         {wallet.allMediaesData.map((item, index) => (
-          <Card className="relative h-auto min-h-[380px] max-w-[400px]" key={index}>
+          <Card
+            className="relative h-auto min-h-[380px] max-w-[400px]"
+            key={index}
+          >
             <CardHeader className="flex gap-3">
               <div className="flex flex-col">
                 <p className="text-tiny font-bold uppercase">Author</p>
