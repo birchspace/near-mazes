@@ -162,11 +162,9 @@ export const WalletSelectorContextProvider: React.FC<{
             limit: 30,
           },
         });
-        console.log("view_all_nft res", res);
-        if (res.length > 0) {
-          const filterRes = res.filter((item) => item.metadata.media !== null);
-          setAllMediaesData(filterRes);
-        }
+
+        const filterRes = res.filter((item) => item.metadata.media !== null);
+        setAllMediaesData(filterRes);
       };
       result();
     };
