@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/d/code/near-mazes/mazes-contract/target/debug/build/typenum-b067dfae115fecd0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/d/code/near-mazes/mazes-contract/target/debug/build/typenum-b067dfae115fecd0/out/op.rs

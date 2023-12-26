@@ -1,5 +1,4 @@
 import { SVGProps } from "react";
-import { providers } from "near-api-js";
 import type { AccountView } from "near-api-js/lib/providers/provider";
 import { BrowserWalletBehaviour } from "@near-wallet-selector/core/src/lib/wallet/wallet.types";
 

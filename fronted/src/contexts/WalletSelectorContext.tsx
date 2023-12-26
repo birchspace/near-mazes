@@ -4,9 +4,7 @@ import type { WalletSelectorModal } from "@near-wallet-selector/modal-ui";
 import { setupModal } from "@near-wallet-selector/modal-ui";
 import { setupNearWallet } from "@near-wallet-selector/near-wallet";
 import { setupSender } from "@near-wallet-selector/sender";
-import { Transaction } from "@near-wallet-selector/core";
 import { setupBitgetWallet } from "@near-wallet-selector/bitget-wallet";
-import { parseNearAmount } from "near-api-js/lib/utils/format";
 
 import { setupMyNearWallet } from "@near-wallet-selector/my-near-wallet";
 import { setupLedger } from "@near-wallet-selector/ledger";

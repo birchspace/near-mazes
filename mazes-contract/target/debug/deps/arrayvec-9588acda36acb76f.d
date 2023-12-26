@@ -1,0 +1,12 @@
+/mnt/d/code/near-mazes/mazes-contract/target/debug/deps/libarrayvec-9588acda36acb76f.rmeta: /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/mnt/d/code/near-mazes/mazes-contract/target/debug/deps/libarrayvec-9588acda36acb76f.rlib: /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/mnt/d/code/near-mazes/mazes-contract/target/debug/deps/arrayvec-9588acda36acb76f.d: /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs
+
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/lib.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/maybe_uninit.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/array_string.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/char.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arrayvec-0.5.2/src/errors.rs:

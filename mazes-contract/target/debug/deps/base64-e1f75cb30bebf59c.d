@@ -1,0 +1,12 @@
+/mnt/d/code/near-mazes/mazes-contract/target/debug/deps/libbase64-e1f75cb30bebf59c.rmeta: /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/mnt/d/code/near-mazes/mazes-contract/target/debug/deps/base64-e1f75cb30bebf59c.d: /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs:
+/home/birch/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs:

@@ -1,8 +1,8 @@
 export const NetworkId = "testnet";
 
 export const contract = {
-  name: "birchdev.testnet",
-  contractName: "mazesexample.testnet",
+  name: "mazestest.testnet",
+  contractName: "mazestest.testnet",
 };
 
 export const nearConfig = {

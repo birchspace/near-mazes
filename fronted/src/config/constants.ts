@@ -1,4 +1,4 @@
-export const CONTRACT_ID = "mazesexample.testnet";
+export const CONTRACT_ID = "mazestest.testnet";
 export const THIRTY_TGAS = "30000000000000";
 export const NO_DEPOSIT = "0";
 export const MazesExample = {

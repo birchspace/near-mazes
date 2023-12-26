@@ -1,0 +1,1 @@
+/mnt/d/code/near-mazes/mazes-contract/target/wasm32-unknown-unknown/release/mazes.wasm: /mnt/d/code/near-mazes/mazes-contract/src/events.rs /mnt/d/code/near-mazes/mazes-contract/src/lib.rs /mnt/d/code/near-mazes/mazes-contract/src/mazes.rs
