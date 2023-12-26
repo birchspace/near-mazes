@@ -128,16 +128,7 @@ export function Playground() {
                     {...register("token_id")}
                   />
                 </div>
-                <Button
-                  size="sm"
-                  onClick={() =>
-                    burnHandle({
-                      secret: item.metadata.media_hash!.slice(-4),
-                      token_id: item.token_id,
-                    })
-                  }
-                  type="submit"
-                >
+                <Button size="sm" type="submit">
                   burn
                 </Button>
               </form>
