@@ -1,6 +1,8 @@
 # Mazes
 
-Demo day project
+#### Website: [Mazes (near-mazes.vercel.app)](https://near-mazes.vercel.app/)
+
+#### **Background**: NFT mini-game with a maze theme
 
 ## What's next? How do I make an app with this?
 
