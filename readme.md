@@ -4,7 +4,7 @@
 
 #### **Background**: NFT mini-game with a maze theme
 
-## What's next? How do I make an app with this?
+## About contract 
 
 #### **compile of the smart contract** 
 
